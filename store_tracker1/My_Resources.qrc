@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>avengers.ico</file>
+        <file>spidey.ico</file>
+        <file>blue.jpg</file>
+    </qresource>
+</RCC>
